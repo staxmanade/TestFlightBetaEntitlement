@@ -1,0 +1,10 @@
+# ApprovalTests ignore
+*.received.txt
+
+# Ignore test ios platform
+TestProject/platforms/
+TestProject/plugins
+
+node_modules/
+
+TestProject/hooks/after_plugin_add/010_install_TestFlight_EntitlementsPlist.js
