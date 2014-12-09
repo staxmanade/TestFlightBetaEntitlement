@@ -36,4 +36,4 @@ There is some good info at [this SO post](http://stackoverflow.com/questions/257
 
 # How does this plugin work?
 
-The plugin is nothing more than an `after_plugin_add` hook that attempts to use [node-xcode](https://github.com/alunny/node-xcode) to generate and add `Entitlements.plist` to the xcode project's `Resources\` folder.
+The plugin is nothing more than an `after_plugin_add` hook that attempts to use [node-xcode](https://github.com/alunny/node-xcode) to generate and add `Entitlements.plist` to the xcode project.
