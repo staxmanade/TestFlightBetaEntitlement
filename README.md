@@ -7,8 +7,7 @@ Cordova Plugin that creates the `Entitlement.plist` necessary to deploy cordova 
 
 1. This plugin requires the use of [node-xcode](https://github.com/alunny/node-xcode). You can install it into your project locally with `npm install --save-dev xcode`
 
-2. TODO: fill in `cordova plugin add ...` command.
-
+2. `cordova plugin add com.staxmanade.testflightbetaentitlement`
 
 # What is required to use Apple's new TestFlight Beta?
 
