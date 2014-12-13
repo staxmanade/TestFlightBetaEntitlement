@@ -1,6 +1,8 @@
 TestFlightBetaEntitlement
 =========================
 
+:warning::warning: Apparently my first test flight test (that passed making me think this was the solution) didn't pass because of this plugin. Still researching...:warning::warning:
+
 Cordova Plugin that creates the `Entitlement.plist` necessary to deploy cordova apps to the new TestFlight Beta.
 
 # Install
